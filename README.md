@@ -11,27 +11,27 @@ Sandyks'_Pizza, a Greek-inspired restaurant in New Jersey, collected transaction
 **Methodology**
 1. Data Import. Cleaned in Excel and loaded into Power BI
 2. Data Transformation
-a. Extracted date and time elements (hour, day, month)
-b. Created calculated columns and measures using DAX
+1. Extracted date and time elements (hour, day, month)
+2. Created calculated columns and measures using DAX
 3. Data Modeling
-a. One main table used: order_details
-b. Relationships established as needed between order_details and Caledendar
+1. One main table used: order_details
+2. Relationships established as needed between order_details and Caledendar
 4. Visualizations Created
-a. KPI Cards (Revenue, Orders, Avg Pizzas per Order)
-b. Line charts (Orders per Hour, Monthly Revenue)
-c. Bar charts (Best/Worst Selling Pizzas)
-d. Slicers for interactivity
+1. KPI Cards (Revenue, Orders, Avg Pizzas per Order)
+2. Line charts (Orders per Hour, Monthly Revenue)
+3. Bar charts (Best/Worst Selling Pizzas)
+4. Slicers for interactivity
 
 **Dashboard Overview**
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](report-screenshots/Dashboard.png)
 
 **Dashboard Features**
-Total Revenue and Orders KPIs
-Peak Hour Analysis
-Orders Per Day and Weekly Trends
-Best and Worst Selling Pizzas
-Monthly Revenue Trends & Seasonality
-Interactive slicers for date and pizza type
+1. Total Revenue and Orders KPIs
+2. Peak Hour Analysis
+3. Orders Per Day and Weekly Trends
+4. Best and Worst Selling Pizzas
+5. Monthly Revenue Trends & Seasonality
+6. Interactive slicers for date and pizza type
 
 **Insights & Recommendations**
 1. Orders peak around 12 PM, suggesting targeted lunch promotions.
@@ -45,7 +45,7 @@ Interactive slicers for date and pizza type
 3. Interact with slicers and visuals to explore trends and patterns.
 
 **Credits**
-Data source: Maven Analytics - Maven Pizza Challenge
-Dashboard built by: **Sandra Koranteng**
-Tools: Excel, Microsoft Power BI, DAX, GitHub
+1. Data source: Maven Analytics - Maven Pizza Challenge
+2. Dashboard built by: **Sandra Koranteng**
+3. Tools: Excel, Microsoft Power BI, DAX, GitHub
 
