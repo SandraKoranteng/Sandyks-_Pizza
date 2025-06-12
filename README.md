@@ -23,7 +23,7 @@ Sandyks'_Pizza, a Greek-inspired restaurant in New Jersey, collected transaction
 4. Slicers for interactivity
 
 **Dashboard Overview**
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.png.png)
 
 **Dashboard Features**
 1. Total Revenue and Orders KPIs
